@@ -1,0 +1,32 @@
+.navbar .navbar-nav .nav-link:hover{
+    background-color: red;
+  
+}
+
+.navbar{
+  margin: 0;
+  padding: 0; 
+  width: 100%;
+  top: 11%;
+}
+
+
+.navbar-nav > li{
+    padding-left:120px;
+    padding-right:80px;
+  }
+
+  .content{
+    text-align: center;
+    padding-left:120px;
+    padding-right:100px;
+    padding-top: 30px;
+  }
+ 
+  .footer{
+    height: 550px;
+    background-color: black;
+    color: white;
+    padding: 100px 50px 30px 80px;
+
+  }
